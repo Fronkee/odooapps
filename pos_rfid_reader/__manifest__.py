@@ -23,8 +23,8 @@
     'installable': True,
     'application': False,
     'images': ['static/description/banner.png'],
-    'price':  '300',
+    'price':  '250.00',
     'currency': 'USD',
     'license': 'LGPL-3',
-    'support': 'drezee2000@gmail.com'
+    'support': 'info@rubidtech.com'
 }
