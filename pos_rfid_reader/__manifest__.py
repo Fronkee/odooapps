@@ -9,7 +9,7 @@
         customer and automatically assign them to the POS order.
     """,
     'category': 'Point of Sale',
-    'author': 'Rubid Technology',
+    'author': 'Rubid Core Technology',
     'depends': ['point_of_sale','contacts'],
     'data': [
         'views/res_partner_views.xml'
